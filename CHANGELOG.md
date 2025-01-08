@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.9.14] - January  07, 2025
+* Update versions and remove jcenter to enable jitpack build
+
+-----------
+
 ## [1.9.13] - February  16, 2019
 * Update plugin, build tools and library versions
 * Min SDK version is now 14

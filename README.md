@@ -33,7 +33,7 @@ Add the following dependency to your build.gradle file.
 
 ```
 repositories {
-   jcenter()
+   mavenCentral()
 }
 implementation 'me.dm7.barcodescanner:zxing:1.9.13'
 ```
@@ -150,7 +150,7 @@ Add the following dependency to your build.gradle file.
 
 ```
 repositories {
-   jcenter()
+   mavenCentral()
 }
 implementation 'me.dm7.barcodescanner:zbar:1.9.13'
 ```
